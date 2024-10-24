@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wpfitness/static/css/main.0da5d91a.css",
+    "main.js": "/wpfitness/static/js/main.51b299fc.js",
+    "static/js/453.311fc56e.chunk.js": "/wpfitness/static/js/453.311fc56e.chunk.js",
+    "index.html": "/wpfitness/index.html",
+    "main.0da5d91a.css.map": "/wpfitness/static/css/main.0da5d91a.css.map",
+    "main.51b299fc.js.map": "/wpfitness/static/js/main.51b299fc.js.map",
+    "453.311fc56e.chunk.js.map": "/wpfitness/static/js/453.311fc56e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da5d91a.css",
+    "static/js/main.51b299fc.js"
+  ]
+}
